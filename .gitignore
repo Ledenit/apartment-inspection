@@ -1,0 +1,14 @@
+node_modules/
+dist/
+server-dist/
+private-data/
+test-results/
+playwright-report/
+*.local
+docs/
+AGENTS.md
+*.tsbuildinfo
+.env
+.env.*
+!.env.example
+*.log
